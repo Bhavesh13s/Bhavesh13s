@@ -9,9 +9,9 @@ I'm a Computer Engineering student at VIT Pune with a passion for building syste
 
 ### 💻 Tech Stack & Tools:
 - **Languages:** Python, C, C++
-- **Frameworks & Libraries:** Node.js (Express), Flask, React, Tailwind CSS
 - **Databases:** MongoDB, MySQL
 - **Hardware:** Arduino, ESP32, Embedded C
+- **Frameworks & Libraries:** Node.js (Express), Flask, React, Tailwind CSS
 - **Tools & Platforms:** Docker, Git
 - **Creative:** UI Prototyping, Editing (Premiere Pro, After Effects)
 
